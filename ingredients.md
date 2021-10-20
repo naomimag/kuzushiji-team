@@ -3,3 +3,4 @@
 - egg
 - smør
 - salt
+- pepper
